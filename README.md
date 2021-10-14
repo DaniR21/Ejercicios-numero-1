@@ -1,2 +1,2 @@
-# Ejercicios-numero-1
+# Ejercicios-numero-0
 ejercicio modulo 0 
